@@ -3,7 +3,7 @@
     "test": "karma start"
   },
   "dependencies": {
-    "lodash": "4.17.10"
+    "lodash": "4.17.21"
   },
   "devDependencies": {
     "@types/jasmine": "2.8.8",
